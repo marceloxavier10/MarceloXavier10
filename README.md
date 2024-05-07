@@ -1,5 +1,6 @@
 ### Hi there, I'm Marcelo 👋
 <!--**MarceloXavier10/MarceloXavier10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">    
   <img align="center" alt="Marcelo-BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
@@ -19,4 +20,11 @@
 </div>
 
 ##
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloxavier10&label=Views&color=blue&style=plastic" alt="marceloxavier10" /> </p>
+
+<!--
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloxavier10&show_icons=truetheme=dark_all_commits=truecount_private=true"/)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=marceloxavier10&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloxavier10&layout=compact" />
+</div>-->
