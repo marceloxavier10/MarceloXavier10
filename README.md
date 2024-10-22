@@ -3,7 +3,7 @@
 ## 🛠️ Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,css,html,git,github,linux,redhat,bash,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,css,html,angular,nodejs,postman,mysql,git,linux,bash,powershell,aws&perline=14" />
   </a>
 </p>
 
