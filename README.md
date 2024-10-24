@@ -17,7 +17,6 @@
 ## 🤝 Open to Collaborate
 I'm always excited to work on interesting projects and collaborate with fellow developers. Feel free to reach out if you have any ideas or just want to connect!
 <div> 
-  <a href = "mailto:marceloxavierpt@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=14" /></a>
   <a href="https://www.linkedin.com/in/marceloxavier10/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=14" /></a> 
 </div>
 
