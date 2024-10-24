@@ -1,11 +1,32 @@
 ## 👋 Hi there, I'm Marcelo
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,css,html,angular,nodejs,postman,mysql,git,linux,bash,powershell,aws&perline=14" />
-  </a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>Cloud</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=angular,html,css&perline=5" height="60"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs&perline=5" height="60"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="60"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws,azure&perline=3" height="60"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📊 GitHub Stats
 <td width="50%" align="center">
