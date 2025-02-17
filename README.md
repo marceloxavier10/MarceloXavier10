@@ -8,15 +8,16 @@
       <th>Backend</th>
       <th>Database</th>
       <th>Cloud</th>
+      <th>Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=angular,html,css&perline=5" height="60"/>
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,ts&perline=6" height="60"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs&perline=5" height="60"/>
+        <img src="https://skillicons.dev/icons?i=java,spring&perline=5" height="60"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="60"/>
@@ -24,13 +25,17 @@
       <td align="center">
         <img src="https://skillicons.dev/icons?i=aws,azure&perline=3" height="60"/>
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,maven,postman&perline=3" height="60"/>
+      </td>
     </tr>
   </tbody>
 </table>
 
+
 ## 📊 GitHub Stats
 <td align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marceloxavier10&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marceloxavier10&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
 </td>
 </tr>
 </table>
