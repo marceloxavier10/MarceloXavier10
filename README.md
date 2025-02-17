@@ -14,7 +14,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,ts&perline=6" height="60"/>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&perline=6" height="60"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java,spring&perline=5" height="60"/>
