@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 <table>
 <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=github_dark&hide_border=true&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloxavier10&theme=github_dark&hide_border=true&langs_count=6&layout=compact&text_color=ffffff&title_color=ffffff"/>
 </td>
 </table>
 
