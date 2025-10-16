@@ -4,17 +4,17 @@
 <table>
   <thead>
     <tr>
-      <th>Frontend</th>
+      <th>Cloud</th>
       <th>Backend</th>
       <th>Database</th>
-      <th>Cloud</th>
+      <th>Frontend</th>
       <th>Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,react&perline=6" height="60"/>
+        <img src="https://skillicons.dev/icons?i=azure&perline=3" height="60"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=java,spring&perline=5" height="60"/>
@@ -23,10 +23,10 @@
         <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="60"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=azure,aws&perline=3" height="60"/>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&perline=5" height="60"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,maven,postman&perline=3" height="60"/>
+        <img src="https://skillicons.dev/icons?i=git,powershell,bash,maven,postman&perline=5" height="60"/>
       </td>
     </tr>
   </tbody>
