@@ -23,7 +23,7 @@
         <img src="https://skillicons.dev/icons?i=mysql&perline=3" height="60"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,azure&perline=3" height="60"/>
+        <img src="https://skillicons.dev/icons?i=azure,aws&perline=3" height="60"/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git,maven,postman&perline=3" height="60"/>
