@@ -26,7 +26,7 @@
         <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&perline=5" height="60"/>
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,powershell,bash,maven,postman&perline=5" height="60"/>
+        <img src="https://skillicons.dev/icons?i=terraform,git,powershell,bash,maven&perline=5" height="60"/>
       </td>
     </tr>
   </tbody>
